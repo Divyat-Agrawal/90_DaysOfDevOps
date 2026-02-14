@@ -1,7 +1,5 @@
 # Linux Architecture, Processes, and systemd
 
-# Linux Architecture, Processes, and systemd
-
 ## Linux Architecture
 
 Linux works in layers:
