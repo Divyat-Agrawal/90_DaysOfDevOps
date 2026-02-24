@@ -391,19 +391,6 @@ Now your fork is updated.
 
 ---
 
-# 📁 Final Folder Structure
-
-```
-devops-git-practice/
-│
-├── git-commands.md
-└── 2026/
-    └── day-23/
-        └── day-23-notes.md
-```
-
----
-
 # 🎯 What I Learned Today
 
 - What is a branch
